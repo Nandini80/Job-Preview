@@ -1,9 +1,4 @@
 import React from "react";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faUserCircle } from "@fortawesome/free-solid-svg-icons";
-import { faBriefcase } from "@fortawesome/free-solid-svg-icons";
-import { faEnvelope } from "@fortawesome/free-solid-svg-icons";
-import { faCreditCard } from "@fortawesome/free-solid-svg-icons";
 import { FiBell } from "react-icons/fi";
 import logo from "../assets/atlassian2.jpg";
 import { SlArrowDown } from "react-icons/sl";

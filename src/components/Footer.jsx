@@ -3,7 +3,7 @@ import logo from '../assets/Atlassian-Logo.jpg';
 
 const Footer = () => {
   return (
-    <div className="bg-white p-6 shadow-md rounded-lg mt-4">
+    <div className="bg-white p-6 shadow-md rounded-lg">
       <div className="flex items-center mb-6">
         <div className="p-2">
           <img src={logo} alt="Company Logo" className="w-10 h-8" />
